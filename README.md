@@ -1,4 +1,4 @@
-# <div align=center><img src="https://file.trinsy.ca/b1f3ac82-50e1-4ea1" height="150"> <br> ChatGPT <br> Black Theme</div>
+# <div align=center><img src="https://file.trinsy.ca/b1f3ac82-50e1-4ea1" height="150"> <br><br> ChatGPT <br> Black Theme</div>
 
 ### 🔍 How to use?
 
